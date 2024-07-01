@@ -40,6 +40,8 @@ The combination of these components allows the STAT model to achieve superior pe
 The following tables compare the performance of the STAT model with other baseline algorithms for traffic state estimation on different datasets.
 
 ![Performance Comparison](results/results_comparison.png)
+![image](https://github.com/asattarzadeh/STAT-model_Traffic-State-Estimation/assets/92281234/d4fb28d8-62c7-4a12-9d8d-aa67de98b1c2)
+
 
 ### Explanation
 
