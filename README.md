@@ -34,3 +34,16 @@ The STAT model combines various components to enhance its predictive capabilitie
 - **Positional Encoding**: Positional encodings are added to the input embeddings to provide information about the position of each element in the sequence.
 
 The combination of these components allows the STAT model to achieve superior performance in traffic state estimation tasks by effectively modeling both global and local interactions.
+
+## Model Results
+
+The following tables compare the performance of the STAT model with other baseline algorithms for traffic state estimation on different datasets.
+
+![Performance Comparison](results/results_comparison.png)
+
+### Explanation
+
+The results are evaluated using three metrics: Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), and Root Mean Square Error (RMSE) across different prediction horizons (15 min, 30 min, and 60 min). The tables show that the STAT model consistently outperforms other models across all metrics and horizons, demonstrating its superior capability in capturing both spatial and temporal dependencies in traffic data.
+
+- **Table I**: Performance comparison for the I980 dataset.
+- **Table II**: Performance comparison for the PEMS-BAY dataset
