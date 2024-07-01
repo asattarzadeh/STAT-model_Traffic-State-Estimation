@@ -20,8 +20,6 @@ This repository contains the code for the traffic state estimation model describ
 
 The architecture of the Spatio-Temporal Autoencoding Transformer (STAT) Model is depicted below. The model is designed to effectively capture both spatial and temporal dependencies in traffic state estimation.
 
-![Model Architecture](images/model_architecture.png)
-
 ### Explanation
 
 The STAT model combines various components to enhance its predictive capabilities:
