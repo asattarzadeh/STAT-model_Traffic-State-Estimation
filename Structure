@@ -13,7 +13,7 @@ Traffic-State-Estimation/
 │   └── traffic_state_estimation.ipynb
 │
 ├── results/
-│   └── example_result.png
+│   
 │
 ├── README.md
 ├── requirements.txt
