@@ -1,0 +1,20 @@
+Traffic-State-Estimation/
+│
+├── data/
+│   └── pems-bay.h5
+│
+├── src/
+│   ├── data_loader.py
+│   ├── model.py
+│   ├── train.py
+│   └── utils.py
+│
+├── notebooks/
+│   └── traffic_state_estimation.ipynb
+│
+├── results/
+│   └── example_result.png
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
